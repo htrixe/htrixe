@@ -4,7 +4,7 @@
  </h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=htrixe&left_color=green&right_color=red" alt="visitor badge"/>
  
-  am Hugo, a passionate and creative software developer from
+  I am Hugo, a passionate and creative software developer from
 🇵🇹 with experience in the programming and mobile development 
 areas. Creating projects with creativity and efficiency and 
 passionate with new technologies. Working for some time with
@@ -51,20 +51,5 @@ most recent tools and technologies available in the market.
 
 <a href="https://www.buymeacoffee.com/htrixe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
- Developer and Technical Lead, working with Angular 2+, 
-Node.js, NestJS, Sass, Scrum, Confluence, Jira, GitLab, 
-Bamboo and SonarQube.
-- IVI Webapps for current and future cars models, 
-Integration with specific car hardware and connectivity 
-platform
-
-
-Company: Capgemini Engineering​
-Project/Client: Volkswagen​
-Duration: 7 months​
-Industry: Automotive​
-Role: Full-Stack Developer ​
-Responsibility: Software development in the vehicle infotainment system with SHIFT framework which is based on Angular and NestJS.​
-Technologies/Tools: SHIFT framework and tools, Angular, Git, REST, RSI, NestJS, Jest, Scrum, Kanban.
 ![image](https://user-images.githubusercontent.com/61080067/227027125-7ac6bae3-cf0a-4dfe-a51d-9b0165b251a5.png)
 
