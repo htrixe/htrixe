@@ -51,5 +51,4 @@ most recent tools and technologies available in the market.
 
 <a href="https://www.buymeacoffee.com/htrixe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-![image](https://user-images.githubusercontent.com/61080067/227027125-7ac6bae3-cf0a-4dfe-a51d-9b0165b251a5.png)
 
