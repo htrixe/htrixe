@@ -19,7 +19,7 @@ most recent tools and technologies available in the market.
 - 🔭 I’m currently working on my soft skills
 - 🌱 I’m currently learning a little bit of Blockchain stacks
 - 👯 I’m looking to collaborate on Nodejs/Spring projects, fun projects, or health oriented ones
-- 📫 How to reach me: hctec.pt@gmail.com
+- 📫 How to reach me: hctec.pt
 - 😄 Pronouns: He, Him
 - 🎶 Music I listen to while coding: Dire straits (Vintage), Pink FLoyd, and other famous Programming / Coding / Hacking musics 
 <br>
