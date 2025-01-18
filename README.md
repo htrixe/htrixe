@@ -2,7 +2,6 @@
  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br/>
  Interested in connecting/networking? I'm on htec.pt (@htec.pt)
  </h2>
-<img src="https://visitor-badge.glitch.me/badge?page_id=htrixe&left_color=green&right_color=red" alt="visitor badge"/>
  
   I am Hugo, a passionate and creative software developer from
 🇵🇹 with experience in the programming and mobile development 
@@ -24,16 +23,6 @@ most recent tools and technologies available in the market.
 - 🎶 Music I listen to while coding: Dire straits (Vintage), Pink FLoyd, and other famous Programming / Coding / Hacking musics 
 <br>
 <br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
