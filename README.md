@@ -16,7 +16,7 @@ most recent tools and technologies available in the market.
 
 ⚡ Fun fact:  I like to explore new technologies and test them out, find bugs, share my knowledge, develop software solutions and quick hacks.
 - 🔭 I’m currently working on my soft skills
-- 🌱 I’m currently learning a little bit of Blockchain stacks
+- 🌱 I’m currently learning a little bit of Gen AI/Blockchain stacks
 - 👯 I’m looking to collaborate on Nodejs/Spring projects, fun projects, or health oriented ones
 - 📫 How to reach me: hctec.pt
 - 😄 Pronouns: He, Him
