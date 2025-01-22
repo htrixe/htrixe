@@ -33,11 +33,6 @@ most recent tools and technologies available in the market.
 </a>
 </p>
 
-### 📫 How to reach me? 
-
-  ⦿ Visit my [Website](https://htec.pt) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/htrixe/) 💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/htrixe) 🐦 <br>
 
 ### 🥊 Languages and Tools:
 
